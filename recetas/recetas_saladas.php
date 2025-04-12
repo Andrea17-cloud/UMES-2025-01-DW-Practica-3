@@ -51,10 +51,10 @@
                     <a class="nav-link" href="../resenias/resenias.html"><h5>Reseñas</h5></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../recetas/recetas_dulces.html"><h5>Recetas Dulces</h5></a>
+                    <a class="nav-link" href="../recetas/recetas_dulces.php"><h5>Recetas Dulces</h5></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../recetas/recetas_saladas.html"><h5>Recetas Saladas</h5></a>
+                    <a class="nav-link" href="../recetas/recetas_saladas.php"><h5>Recetas Saladas</h5></a>
                 </li>
                 </ul>
             </div>
